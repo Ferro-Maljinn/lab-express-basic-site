@@ -1,0 +1,43 @@
+section {
+    display: inline-block;
+    margin: 64px;
+}
+
+#aboutText {
+    color: white;
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+
+aside {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+
+#about-header {
+    color: white;
+}
+
+#about-img {
+  width: 100%;
+  height: 100%;
+  float: right;
+  margin: 32px;
+}
+p {
+    float: left;
+    margin: 32px;
+    width: 50%;
+    font-size: large;
+}
+
+hr {
+    border: 2px dashed gold;
+}
